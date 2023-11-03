@@ -34,8 +34,9 @@
 
    a. Właściciel bota "Music-Bot" zastrzega sobie prawo do zmiany regulaminu w każdej chwili. Użytkownicy zostaną poinformowani o takich zmianach na serwerze Discord.
 
-## Made with <3 by @xSmil3x
-
    b. Zaktualizowany regulamin zaczyna obowiązywać od momentu opublikowania go na serwerze Discord.
 
 Zapoznanie się i przestrzeganie powyższego regulaminu jest obowiązkiem każdego użytkownika serwera Discord korzystającego z bota "Music-Bot." Niestosowanie się do regulaminu może skutkować ostrzeżeniami lub nawet usunięciem użytkownika z serwera. Pamiętaj, że regulamin ten można dostosować do własnych potrzeb i wymagań serwera.
+
+
+### Made with <3 by @xSmil3x - Na życzenie @Wojtoteka
